@@ -1,0 +1,13 @@
+C:\Users\darven01\source\repos\BroadAssigment\Test\bin\Release\Test.exe.config
+C:\Users\darven01\source\repos\BroadAssigment\Test\bin\Release\Test.exe
+C:\Users\darven01\source\repos\BroadAssigment\Test\bin\Release\Test.pdb
+C:\Users\darven01\source\repos\BroadAssigment\Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\darven01\source\repos\BroadAssigment\Test\bin\Release\Newtonsoft.Json.pdb
+C:\Users\darven01\source\repos\BroadAssigment\Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\darven01\source\repos\BroadAssigment\Test\obj\Release\Test.Form1.resources
+C:\Users\darven01\source\repos\BroadAssigment\Test\obj\Release\Test.Properties.Resources.resources
+C:\Users\darven01\source\repos\BroadAssigment\Test\obj\Release\Test.csproj.GenerateResource.cache
+C:\Users\darven01\source\repos\BroadAssigment\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+C:\Users\darven01\source\repos\BroadAssigment\Test\obj\Release\Test.csproj.CopyComplete
+C:\Users\darven01\source\repos\BroadAssigment\Test\obj\Release\Test.exe
+C:\Users\darven01\source\repos\BroadAssigment\Test\obj\Release\Test.pdb
